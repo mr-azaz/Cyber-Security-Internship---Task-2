@@ -4,17 +4,6 @@
 ## 🎯 Objective
 Analyze a phishing email sample and identify key phishing characteristics.
 
-## 📂 Files Included
-- `Phishing_Email_Sample.png` – Fake phishing email screenshot used for analysis.
-- `README.md` – This file with full phishing analysis and summary.
-
-## 🛠️ Tools Used
-- Email Client: Outlook Web (sample)
-- Email Header Analyzer: https://mxtoolbox.com/EmailHeaders.aspx
-- VirusTotal for link inspection
-
----
-
 ## 🔍 Phishing Email Analysis Report
 
 ### 📌 Email Subject: "Urgent: Your Account Has Been Suspended!"
